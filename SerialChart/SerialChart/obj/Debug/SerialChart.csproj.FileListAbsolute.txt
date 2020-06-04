@@ -1,0 +1,11 @@
+C:\Users\jonah\source\repos\SerialChart\SerialChart\bin\Debug\SerialChart.exe.config
+C:\Users\jonah\source\repos\SerialChart\SerialChart\bin\Debug\SerialChart.exe
+C:\Users\jonah\source\repos\SerialChart\SerialChart\bin\Debug\SerialChart.pdb
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.csprojAssemblyReference.cache
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.Properties.Resources.resources
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.csproj.GenerateResource.cache
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.exe
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.pdb
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.FormSerialPlotter.resources
+C:\Users\jonah\source\repos\SerialChart\SerialChart\obj\Debug\SerialChart.PortSelectionForm.resources
